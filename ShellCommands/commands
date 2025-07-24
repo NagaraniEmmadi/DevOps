@@ -1,0 +1,6 @@
+List the files in current directory
+ls
+we use "touch" command to create an empty file
+When we use ">":" it will replace the content in the file with the current data"," If we use ">>" it will append the data
+grep wordname:\* will search the word in all files
+vim filename is used to enter many commands in a single go
